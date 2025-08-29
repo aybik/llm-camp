@@ -12,7 +12,8 @@ dependencies = [
     "tqdm (>=4.67.1,<5.0.0)",
     "openai (>=1.102.0,<2.0.0)",
     "elasticsearch (==8.*)",
-    "minsearch (>=0.0.4,<0.0.5)"
+    "minsearch (>=0.0.4,<0.0.5)",
+    "qdrant-client[fastembed] (>=1.14.2)"
 ]
 
 
